@@ -1,6 +1,6 @@
 {
   "name": "to-grayscale",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Take an RGB buffer with specified depth and turn it into a grayscale one",
   "keywords": ["rgb", "grayscale", "image"],
