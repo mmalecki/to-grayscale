@@ -2,7 +2,7 @@
   "name": "to-grayscale",
   "version": "0.0.0",
   "author": "Maciej Małecki <me@mmalecki.com>",
-  "description": "Transform RGB image to grayscale",
+  "description": "Take an RGB buffer with specified depth and turn it into a grayscale one",
   "keywords": ["rgb", "grayscale", "image"],
   "devDependencies": {
     "v4l2camera": "^0.4.2"
