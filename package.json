@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Transform RGB image to grayscale",
+  "keywords": ["rgb", "grayscale", "image"],
   "devDependencies": {
     "v4l2camera": "^0.4.2"
   }
